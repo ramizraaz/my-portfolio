@@ -1,0 +1,16 @@
+body {
+    font-family: 'Acme', sans-serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+span {
+    color: rgb(247, 21, 77);
+}
+
+section {
+    display: flex;
+    /* Using this attribute for show photo and content flexible left right part */
+}

@@ -28,9 +28,7 @@ section {
 
 .link-button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(102, 3, 3), #f50f22);
+    background-image: linear-gradient(red, red);
     padding: 5px 20px;
     border-radius: 3px;
-    font-weight: 800;
-    color: rgb(63, 247, 7);
 }

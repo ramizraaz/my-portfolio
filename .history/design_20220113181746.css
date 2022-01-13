@@ -18,19 +18,10 @@ section {
 .content {
     width: 50%;
     /*to make 2 div 50//50 size*/
-    padding-left: 5%;
+    padding-left: 100px;
 }
 
 .content img {
     width: 85%;
     /*adjusting image*/
-}
-
-.link-button {
-    text-decoration: none;
-    background-image: linear-gradient(rgb(102, 3, 3), #f50f22);
-    padding: 5px 20px;
-    border-radius: 3px;
-    font-weight: 800;
-    color: rgb(63, 247, 7);
 }
