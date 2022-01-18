@@ -85,9 +85,3 @@ span {
     border-image: linear-gradient(rgb(32, 231, 6), #ff0f4b);
     border-image-slice: 1;
 }
-
-footer {
-    text-align: center;
-    font-size: 25px;
-    color: darkcyan;
-}

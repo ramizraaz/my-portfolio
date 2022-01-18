@@ -32,10 +32,10 @@ span {
     text-decoration: none;
     background-image: linear-gradient(rgb(102, 3, 3), #f50f22);
     padding: 5px 20px;
-    border-radius: 5px;
+    border-radius: 3px;
     font-weight: 800;
     color: rgb(63, 247, 7);
-    box-shadow: 5px 5px 20px red;
+    box-shadow: 5px 5px 50px red;
 }
 
 .top {
@@ -70,24 +70,4 @@ span {
     padding-left: 15px;
     border-radius: 15px;
     box-shadow: 10px 10px 35px greenyellow;
-}
-
-#web-dev {
-    border-left: 5px solid;
-    border-bottom: 5px solid;
-    border-image: linear-gradient(rgb(255, 1, 1), #7ce40681);
-    border-image-slice: 1;
-}
-
-#security {
-    border-left: 5px solid;
-    border-bottom: 5px solid;
-    border-image: linear-gradient(rgb(32, 231, 6), #ff0f4b);
-    border-image-slice: 1;
-}
-
-footer {
-    text-align: center;
-    font-size: 25px;
-    color: darkcyan;
 }

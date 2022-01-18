@@ -71,23 +71,3 @@ span {
     border-radius: 15px;
     box-shadow: 10px 10px 35px greenyellow;
 }
-
-#web-dev {
-    border-left: 5px solid;
-    border-bottom: 5px solid;
-    border-image: linear-gradient(rgb(255, 1, 1), #7ce40681);
-    border-image-slice: 1;
-}
-
-#security {
-    border-left: 5px solid;
-    border-bottom: 5px solid;
-    border-image: linear-gradient(rgb(32, 231, 6), #ff0f4b);
-    border-image-slice: 1;
-}
-
-footer {
-    text-align: center;
-    font-size: 25px;
-    color: darkcyan;
-}
